@@ -1,5 +1,5 @@
 /*
-@Company: Medimojo
+@Company: Panakeia Technologies
 @Author: Prashant Sudeep
 */
 
