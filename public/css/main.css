@@ -642,7 +642,7 @@ header {
 	width: 100%;
 	position: fixed;
 	top:0;
-	background-image: linear-gradient(#1c4875 0, #326ea5 100%);
+	background-image: linear-gradient(#395808 0, #1c4875 100%);
 	height: 60px;
 	z-index: 100;
 }
@@ -991,7 +991,7 @@ header .badge {
 
 footer {
 	width: 100%;
-	background-image: linear-gradient(#326ea5 0, #1c4875 100%);
+	background-image: linear-gradient(#395808 0, #1c4875 100%);
 	color: #f9f9f9;
 	font-weight: 300;
 	font-size: 85%;
