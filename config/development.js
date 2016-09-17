@@ -3,7 +3,8 @@
 @Author: Prashant Sudeep
 */
 
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 3100;
+console.log(port);
 
 module.exports = {
 	conf: {
